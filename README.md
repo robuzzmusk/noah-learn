@@ -8,7 +8,7 @@ Build Out python project:
 * [python library] (https://github.com/robuzzmusk/noah-learn/tree/main/devopslib)
 
 1. *Create the Virtual Environment*:
-2. 
+ 
    python3 -m venv ~/.venv
    
 3. *Edit Your .bashrc*:
