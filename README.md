@@ -6,3 +6,29 @@ Build Out python project:
 * [requirements.txt] (https://github.com/robuzzmusk/noah-learn/blob/main/requirements.txt)
 * [test library.py] (https://github.com/robuzzmusk/noah-learn/blob/main/test_devopslib.py)
 * [python library] (https://github.com/robuzzmusk/noah-learn/tree/main/devopslib)
+
+1. *Create the Virtual Environment*:
+2. 
+   python3 -m venv ~/.venv
+   
+3. *Edit Your .bashrc*:
+   You need to add the activation command to your .bashrc file. You should add the 
+   following line to your ~/.bashrc:
+   
+   source ~/.venv/bin/activate
+   
+
+4. *Reload Your .bashrc*:
+   After editing the .bashrc, you need to reload it to apply the changes. Run:
+   bash
+   
+   source ~/.bashrc
+   
+
+5. *Check Which Python*:
+  
+   which python
+   
+   It should point to the Python executable inside your virtual environment (something like ~/.venv/bin/python).
+
+6. clone the project & then run 'make all'
