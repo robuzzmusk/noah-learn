@@ -32,3 +32,8 @@ Build Out python project:
    It should point to the Python executable inside your virtual environment (something like ~/.venv/bin/python).
 
 6. clone the project & then run 'make all'
+
+###Command-Lines Tools and Step Functions
+![state-machines -- step-functions](https://github.com/user-attachments/assets/7a4e8801-ae27-45d3-b637-64f651513831)
+
+
